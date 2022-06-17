@@ -1,2 +1,2 @@
 # python-django-model
-zuri
+zuri django model task
